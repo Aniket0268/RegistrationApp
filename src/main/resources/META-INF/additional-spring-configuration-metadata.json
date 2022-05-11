@@ -1,0 +1,67 @@
+{"properties": [
+  {
+    "name": "spring.datasource.properties",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.properties'"
+  },
+  {
+    "name": "spring.datasource.jpa",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.jpa'"
+  },
+  {
+    "name": "spring.datasource.hibernet",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.hibernet'"
+  },
+  {
+    "name": "spring.datasource.show_sql",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.show_sql'"
+  },
+  {
+    "name": "spring.datasource.mail",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.mail'"
+  },
+  {
+    "name": "spring.datasource.host",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.host'"
+  },
+  {
+    "name": "spring.datasource.port",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.port'"
+  },
+  {
+    "name": "spring.datasource.auth",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.auth'"
+  },
+  {
+    "name": "spring.datasource.starttls",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.starttls'"
+  },
+  {
+    "name": "spring.datasource.smtp",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.smtp'"
+  },
+  {
+    "name": "spring.datasource.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.enable'"
+  },
+  {
+    "name": "spring.server",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.server'"
+  },
+  {
+    "name": "spring.port",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.port'"
+  }
+]}
