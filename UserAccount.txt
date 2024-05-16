@@ -1,7 +1,7 @@
 Hi {FNAME} {LNAME},
 <br/>
 
-Welcome to Brainworks Exam Portal, Your registration is almost completed.
+Welcome to IES Exam Portal, Your registration is almost completed.
 Please use below details to unlock your account.<br/>
 <br/>
 
@@ -14,4 +14,4 @@ Click Here To Unlock Your Account</a>
 <br/>
 
 Thanks & Regards,<br/>
-Team Brainworks.<br/>
+Team IES.<br/>
